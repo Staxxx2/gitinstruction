@@ -22,6 +22,8 @@
 **Указание неотслеживаемых файлов**
 
 **Консоль**
+Шпаргалка по bash
+https://github.com/cyberspacedk/BASH-Commands
 
 **Длинный вывод в консоли: Vim**
 
